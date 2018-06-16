@@ -1,0 +1,39 @@
+.root{
+-fx-background-color:#42b3f4;
+}
+#title{
+	-fx-font-size:70;
+	-fx-text-fill:#42f4c8;
+	-fx-font-weight:bold;
+	-fx-font-family: 'Droid Sans';
+	
+}
+#title2{
+	-fx-font-size:35;
+	-fx-text-fill:#42f4c8;
+	-fx-font-weight:bold;
+	-fx-font-family:'cursive';
+	
+}
+
+#slogan{
+	-fx-font-size:20;
+	-fx-text-fill:#42f4c8;
+	
+}
+.button{
+	-fx-font-size:18;
+	-fx-text-fill:#bde0b3;
+	-fx-background-color:#2e5eba;
+	-fx-background-radius:0 0 0 0 ;
+	}
+.button:hover{
+	-fx-background-color:#1e4da8;
+}
+
+.label{
+	-fx-text-fill:white;
+	-fx-font-weight:bold;
+}
+	
+	
